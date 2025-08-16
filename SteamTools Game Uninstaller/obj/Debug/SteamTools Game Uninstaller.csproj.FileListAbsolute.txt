@@ -1,0 +1,15 @@
+F:\Project C#\SteamTools Game Uninstaller\SteamTools Game Uninstaller\bin\Debug\SteamTools Game Uninstaller.exe.config
+F:\Project C#\SteamTools Game Uninstaller\SteamTools Game Uninstaller\bin\Debug\SteamTools Game Uninstaller.exe
+F:\Project C#\SteamTools Game Uninstaller\SteamTools Game Uninstaller\bin\Debug\SteamTools Game Uninstaller.pdb
+F:\Project C#\SteamTools Game Uninstaller\SteamTools Game Uninstaller\obj\Debug\SteamTools Game Uninstaller.csproj.AssemblyReference.cache
+F:\Project C#\SteamTools Game Uninstaller\SteamTools Game Uninstaller\obj\Debug\SteamTools_Game_Uninstaller.Properties.Resources.resources
+F:\Project C#\SteamTools Game Uninstaller\SteamTools Game Uninstaller\obj\Debug\SteamTools Game Uninstaller.csproj.GenerateResource.cache
+F:\Project C#\SteamTools Game Uninstaller\SteamTools Game Uninstaller\obj\Debug\SteamTools Game Uninstaller.csproj.CoreCompileInputs.cache
+F:\Project C#\SteamTools Game Uninstaller\SteamTools Game Uninstaller\obj\Debug\SteamTools Game Uninstaller.exe
+F:\Project C#\SteamTools Game Uninstaller\SteamTools Game Uninstaller\obj\Debug\SteamTools Game Uninstaller.pdb
+F:\Project C#\SteamTools Game Uninstaller\SteamTools Game Uninstaller\bin\Debug\Guna.UI2.dll
+F:\Project C#\SteamTools Game Uninstaller\SteamTools Game Uninstaller\bin\Debug\Newtonsoft.Json.dll
+F:\Project C#\SteamTools Game Uninstaller\SteamTools Game Uninstaller\bin\Debug\Newtonsoft.Json.xml
+F:\Project C#\SteamTools Game Uninstaller\SteamTools Game Uninstaller\obj\Debug\SteamTools Game Uninstaller.exe.config
+F:\Project C#\SteamTools Game Uninstaller\SteamTools Game Uninstaller\obj\Debug\SteamToo.462F6052.Up2Date
+F:\Project C#\SteamTools Game Uninstaller\SteamTools Game Uninstaller\obj\Debug\SteamTools_Game_Uninstaller.Form1.resources
